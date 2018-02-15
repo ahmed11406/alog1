@@ -107,3 +107,8 @@ person1.age=121; puts person1.age # can read it and write over it as we used...f
 puts person1.job # can only read it but not change it as we only set it 
 puts $name_of_depart;
 
+
+
+
+
+
