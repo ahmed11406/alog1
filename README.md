@@ -9,7 +9,8 @@ Description : This is an assignment required in java lang in an online course
 from Princton Univ. at Coursera called Algorithms, Part:1. by Dr.Sedgewick and Dr.Kevin Wayne.
 However, this project conatins the Weighted Union Find with Path Compression algorithm, and one 
 of its scientific applications called the Monte Carlo simulation of 
-percolation threshold problem, both implemented in C++ language.  
+percolation threshold problem, both implemented in C++ language. the code provided here is very comprehensible, extensively commented and organized.
+
 MANY THANKS to DR. Sedgewick for his great efforts in this online course.
 
 Link to the course:
